@@ -1,16 +1,52 @@
-## Hi there 👋
+### Hi there 👋 I'm Muhammad Hammad
 
-<!--
-**MuhammadHammad-dotcom/muhammadHammad-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/m_hammad764"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"></a>
+  <a href="https://www.facebook.com/share/1DPTfhcnVP/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook"></a>
+  <a href="https://discord.com/users/muhammadhammad0288"><img src="https://img.shields.io/badge/Discord-muhammadhammad0288-5865F2?style=flat-square&logo=discord"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me:
+* 🎓 **Computational Finance student** at **NED University of Engineering and Technology**.
+* 💡 Passionate about **AI Automation, Data Analytics, and Financial Technology (FinTech)**, combining data, automation, and tech to solve real-world problems.
+* 🛠️ **Current Focus:** Building AI automation workflows, data analytics dashboards, business process automation, and FinTech solutions.
+* 📫 **Reach me via email:** 
+  * `mhammadmnaeem28@gmail.com`
+  * `mhammadmnaeem29@gmail.com`
+
+---
+
+### 💻 Tech Stack & Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sql,powershell,git,github,vscode,html,css,excel" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/n8n-AI%20Automation-FF6584?style=for-the-badge&logo=n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit" />
+</p>
+
+---
+
+### 📊 Muhammad Hammad's GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 💬 Random Dev Quote:
+> *"There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do."* — Butler Lampson

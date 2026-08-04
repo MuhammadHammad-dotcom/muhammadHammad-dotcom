@@ -1,12 +1,16 @@
 <div align="center">
 
-# ⚡ MUHAMMAD HAMMAD ⚡
-### **Computational Finance Undergrad | AI Automation Architect & FinTech Developer**
-
+<!-- Top Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=120&section=header&text=Welcome%20To%20My%20Universe&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Waving Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=150&section=header&text=MUHAMMAD%20HAMMAD&fontSize=34&fontColor=00ffcc&animation=fadeIn&fontAlignY=38" alt="Header Waving Banner"/>
 </p>
 
+<!-- Typing Effect Subtitle using SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&height=45&lines=Computational+Finance+Undergrad;AI+Automation+Architect;FinTech+Developer+%26+Quant+Trader" alt="Typing SVG" />
+</p>
+
+<!-- Interactive Social Badges with Hover Glow Effect -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -85,12 +89,22 @@
 
 ---
 
-## 📈 Activity & Contribution Live Graphs
+## 📈 Live Commit & Contribution Graphs (Direct Render)
 
 <div align="center">
 
-  <h3>🔥 Code Contribution Matrix</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&custom_background_color=0d1117" alt="Contribution Graph"/>
+  <h3>🔥 Direct Commit & Activity Graph Matrix</h3>
+  <!-- Rendered directly as a visual image block so it loads instantly without requiring clicks -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&custom_background_color=0d1117&line=00ffcc&point=ffffff" alt="Direct Commit Graph"/>
+
+  <br><br>
+
+  <h3>🐍 Contribution Snake Animation</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
@@ -105,8 +119,6 @@
 ---
 
 ## 👁️ Traffic & Session Analytics
-> *Note: GitHub's API rules limit direct storage of individual names for privacy reasons. However, the ultra-fast trackers below completely secure and log your global traffic counters in real time.*
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/MuhammadHammad-dotcom/count.svg?" alt="Visitor Count" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHammad-dotcom.MuhammadHammad-dotcom" alt="Unique Visitors" />
@@ -114,8 +126,9 @@
 
 ---
 
+<!-- Bottom Animated Waving Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=section&color=gradient&customColorList=6,11,20,30,40&height=50&section=footer" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=section&color=gradient&customColorList=6,11,20,30,40&height=60&section=footer" alt="Footer Banner"/>
 </p>
 
 ## 💬 Dev Philosophy

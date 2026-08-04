@@ -1,59 +1,59 @@
 <div align="center">
 
-# Hi there 👋, I'm Muhammad Hammad
-### **Computational Finance Student | AI Automation & FinTech Developer**
+# 🔥 Hey there, I'm Muhammad Hammad 👋
+### **Computational Finance Undergrad | AI Automation Architect & FinTech Developer**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/m_hammad764"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/share/1DPTfhcnVP/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://discord.com/users/muhammadhammad0288"><img src="https://img.shields.io/badge/Discord-muhammadhammad0288-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/m_hammad764"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/share/1DPTfhcnVP/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://discord.com/users/muhammadhammad0288"><img src="https://img.shields.io/badge/Discord-muhammadhammad0288-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
-> *"Bridging the gap between quantitative finance, enterprise systems, and next-gen AI automation."*
+## ⚡ Quick Blueprint
+> *"Engineering high-velocity financial systems, intelligent automated workflows, and data-driven terminal applications."*
 
-* 🎓 **Academic Explorer:** Studying **Computational Finance** at **NED University of Engineering and Technology**.
-* 💡 **Core Passion:** Crafting high-performance FinTech applications, intelligent data workflows, and resilient automation pipelines.
-* 🛠️ **Current Obsession:** Building automated quantitative engines, interactive enterprise analytics dashboards, and scalable AI agents.
-* 📫 **Direct Contacts:** 
-  * [mhammadmnaeem28@gmail.com](mailto:mhammadmnaeem28@gmail.com)
-  * [mhammadmnaeem29@gmail.com](mailto:mhammadmnaeem29@gmail.com)
+* 🎓 **Academic Base:** Studying **Computational Finance** at **NED University of Engineering and Technology**.
+* 💡 **Core Focus:** Merging quantitative data science with automated AI engines to build smart, real-world solutions.
+* 🛠️ **Current Obsession:** Developing algorithmic trading terminals, advanced POS operating systems, and automated enterprise workflows.
+* 📫 **Direct Contact Channels:** 
+  * 📧 `mhammadmnaeem28@gmail.com`
+  * 📧 `mhammadmnaeem29@gmail.com`
 
 ---
 
-## 💻 Tech Stack & Ecosystem
+## 💻 Tech Stack & Power Tools
 
-### Languages & Core Tools
+### Languages & Core Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,powershell,git,github,vscode,html,css,excel,postman" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=py,sql,powershell,git,github,vscode,html,css,excel,postman,linux" alt="Tech Stack Icons"/>
 </p>
 
-### Frameworks & Specializations
+### Specialization & Framework Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Pandas_%7C_NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-AI_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics_%26_Viz-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-AI_Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured High-Impact Projects
 
-| Project | Description | Tech Stack | Repository |
+| Project Name | Description & Architecture | Core Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and analysis. | Python, ML, Streamlit | [View Repo](https://github.com/MuhammadHammad-dotcom) |
-| **Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, Analytics | [View Repo](https://github.com/MuhammadHammad-dotcom) |
+| **⚡ NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and analysis. | Python, ML, Streamlit, APIs | [Explore Repo](https://github.com/MuhammadHammad-dotcom) |
+| **🛡️ Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, PowerBI | [Explore Repo](https://github.com/MuhammadHammad-dotcom) |
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Certifications & Verified Credentials
 
 * 🎓 **Data Analysis with Python** — *IBM (Issued Jun 2026)*
 * 🏅 **Python (Basic)** — *HackerRank (Issued Jun 2026)*
@@ -61,40 +61,64 @@
 
 ---
 
-## 📊 GitHub Analytics & Metrics
+## 📊 Live GitHub Analytics & Performance Metrics
 
 <div align="center">
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=30" alt="GitHub Stats"/>
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   </p>
 
-  <!-- GitHub Streak Stats Card -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
   </p>
 
 </div>
 
 ---
 
-## 🏆 Trophies & Milestones
+## 📈 Activity & Contribution Graphs
+
+<div align="center">
+
+  <h3>🔥 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&custom_background_color=0d1117" alt="Contribution Graph"/>
+
+  <br><br>
+  
+  <h3>🐍 Snake Animation (Contributions in Action)</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
+
+---
+
+## 🏆 Trophies Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true&margin-w=12&margin-h=12&row=1&column=5" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 GitHub Contribution Activity (Graph)
+## 👁️ Recent Visitors & Profile Views Wall
+> *Note: GitHub Markdown natively doesn't store visitor usernames for privacy reasons (only the total counter works). However, you can display a dynamic visitor badge wall or tracker below so people see activity instantly!*
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MuhammadHammad-dotcom/count.svg?" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHammad-dotcom.MuhammadHammad-dotcom" alt="Unique Visitors" />
+</p>
 
 ---
 

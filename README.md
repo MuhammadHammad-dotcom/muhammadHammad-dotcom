@@ -88,15 +88,6 @@
   <h3>🔥 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&custom_background_color=0d1117" alt="Contribution Graph"/>
 
-  <br><br>
-  
-  <h3>🐍 Snake Animation (Contributions in Action)</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadHammad-dotcom/MuhammadHammad-dotcom/output/github-contribution-grid-snake.svg">
-  </picture>
-
 </div>
 
 ---
@@ -109,14 +100,11 @@
 
 ---
 
-## 👁️ Recent Visitors & Profile Views Wall
-> *Note: GitHub Markdown natively doesn't store visitor usernames for privacy reasons (only the total counter works). However, you can display a dynamic visitor badge wall or tracker below so people see activity instantly!*
+## 👁️ Profile Trackers & Analytics
+> *Note: GitHub security/privacy policies restrict displaying specific visitor names (usernames) on public README files. However, the robust trackers below accurately log total views, unique visitors, and session analytics securely!*
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/MuhammadHammad-dotcom/count.svg?" alt="Visitor Count" />
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHammad-dotcom.MuhammadHammad-dotcom" alt="Unique Visitors" />
 </p>
 

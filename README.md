@@ -1,22 +1,34 @@
 <div align="center">
 
-<!-- Top Animated Header Banner -->
+<!-- 🚀 Power-Up Animated Header Banner (Matrix Code Rain + Name) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=160&section=header&text=MUHAMMAD%20HAMMAD&fontSize=36&fontColor=00ffcc&animation=fadeIn&fontAlignY=38" alt="Header Waving Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ffcc&height=200&section=header&text=MUHAMMAD%20HAMMAD&fontSize=45&fontColor=00ffcc&animation=emoji&fontAlignY=35&desc=Quant%20Trader%20&%20AI%20Automation%20Architect&descSize=20&descAlignY=70" alt="Header Animated Banner"/>
 </p>
 
-<!-- Typing Effect Subtitle -->
+<!-- 💡 Dynamic Typing Effect Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=680&height=45&lines=Computational+Finance+Undergrad;AI+Automation+Architect;FinTech+Developer+%26+Quant+Trader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=800&color=00FFCC&center=true&vCenter=true&width=750&height=60&lines=🚀+Building+High-Velocity+Financial+Systems;🤖+AI+Automation+Architect+&+(n8n);📈+FinTech+Developer+%26+Quantitative+Trader" alt="Typing SVG" />
 </p>
 
-<!-- Social Connect Badges -->
+<!-- 🔥 Social Connect Badges (Animated Icons) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/m_hammad764"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/share/1DPTfhcnVP/"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://discord.com/users/muhammadhammad0288"><img src="https://img.shields.io/badge/Discord-muhammadhammad0288-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <!-- Profile Views with custom icon -->
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS&logo=GitHub" alt="Profile Views"/>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muhammad-hammad-95a048320">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=20" alt="LinkedIn"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/m_hammad764">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=20" alt="Instagram"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/muhammadhammad0288">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&logoWidth=20" alt="Discord"/>
+  </a>
 </p>
 
 </div>
@@ -24,12 +36,12 @@
 ---
 
 ## 🎯 Executive Blueprint
-> *"Engineering high-velocity financial systems, intelligent automated workflows, and resilient data-driven terminal apps."*
+> *"Engineering high-frequency financial systems, intelligent automated workflows, and resilient data-driven terminal applications."*
 
 * 🎓 **Academic Base:** Studying **Computational Finance** at **NED University of Engineering and Technology**.
 * 💡 **Core Focus:** Merging quantitative data science with automated AI engines to engineer real-world scalable solutions.
-* 🛠️ **Current Obsession:** Building algorithmic trading terminals, advanced POS operating systems, and automated enterprise workflows.
-* 📫 **Direct Contact Channels:** 
+* 🛠️ **Current Obsession:** Building algorithmic trading terminals, advanced POS operating systems, and automated enterprise workflows with n8n.
+* 📫 **Direct Contact Channels:**
   * 📧 `mhammadmnaeem28@gmail.com`
   * 📧 `mhammadmnaeem29@gmail.com`
 
@@ -56,8 +68,8 @@
 
 | Project Name | Architecture & Core Scope | Tech Stack | Direct Action |
 | :--- | :--- | :--- | :--- |
-| **⚡ NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and analysis. | Python, ML, Streamlit, APIs | [Profile Link](https://github.com/MuhammadHammad-dotcom) |
-| **🛡️ Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, PowerBI | [Profile Link](https://github.com/MuhammadHammad-dotcom) |
+| **⚡ NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and analysis. | Python, ML, Streamlit, APIs | [Project Link](https://github.com/MuhammadHammad-dotcom) |
+| **🛡️ Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, PowerBI | [Project Link](https://github.com/MuhammadHammad-dotcom) |
 
 ---
 
@@ -73,18 +85,19 @@
 
 <div align="center">
 
-  <!-- Side-by-side Layout Table for Main Stats & Top Languages -->
+  <!-- Side-by-Side layout for Main Stats & Top Languages -->
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3&icon_color=00FFCC" alt="GitHub Stats"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3&icon_color=00FFCC&rank_icon=github" alt="GitHub Stats"/>
       </td>
-      <td align="center">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
+  <!-- Centered Streak Stats -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak"/>
   </p>
@@ -114,14 +127,14 @@
 
 ## 👁️ Session Traffic Counter
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHammad-dotcom.MuhammadHammad-dotcom" alt="Unique Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHammad-dotcom.MuhammadHammad-dotcom&left_color=0D1117&right_color=00FFCC&style=for-the-badge" alt="Unique Visitors" />
 </p>
 
 ---
 
-<!-- Bottom Footer Banner -->
+<!-- Bottom Animated Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=section&color=gradient&customColorList=6,11,20,30,40&height=50&section=footer" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=sphere&color=gradient&customColorList=6,11,20,30,40&height=80&section=footer&animation=fadeIn" alt="Footer Banner"/>
 </p>
 
 ## 💬 Dev Philosophy

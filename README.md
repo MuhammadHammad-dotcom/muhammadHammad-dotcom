@@ -2,12 +2,12 @@
 
 <!-- Top Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=150&section=header&text=MUHAMMAD%20HAMMAD&fontSize=34&fontColor=00ffcc&animation=fadeIn&fontAlignY=38" alt="Header Waving Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=160&section=header&text=MUHAMMAD%20HAMMAD&fontSize=36&fontColor=00ffcc&animation=fadeIn&fontAlignY=38" alt="Header Waving Banner"/>
 </p>
 
 <!-- Typing Effect Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&height=45&lines=Computational+Finance+Undergrad;AI+Automation+Architect;FinTech+Developer+%26+Quant+Trader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=680&height=45&lines=Computational+Finance+Undergrad;AI+Automation+Architect;FinTech+Developer+%26+Quant+Trader" alt="Typing SVG" />
 </p>
 
 <!-- Social Connect Badges -->
@@ -73,16 +73,20 @@
 
 <div align="center">
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </p>
+  <!-- Side-by-side Layout Table for Main Stats & Top Languages to ensure high visibility -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3&icon_color=00FFCC" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak"/>
   </p>
 
 </div>
@@ -94,7 +98,7 @@
 <div align="center">
 
   <h3>🔥 Contribution Activity Matrix</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=00ffcc&point=ffffff&background=0d1117" alt="Contribution Graph"/>
 
 </div>
 
@@ -103,7 +107,7 @@
 ## 🏆 Global Trophies Showcase
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true&column=4&margin-h=15&margin-v=15" alt="GitHub Trophies"/>
 </p>
 
 ---

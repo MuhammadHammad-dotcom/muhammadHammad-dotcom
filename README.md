@@ -2,25 +2,26 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=MUHAMMAD%20HAMMAD&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=MUHAMMAD%20HAMMAD&fontSize=44&fontColor=00ffcc&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
 </p>
 
 <!-- Dynamic Typing Effect Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=Computational+Finance+Undergrad;AI+Automation+Architect;FinTech+Developer+%26+Quant+Trader;Machine+Learning+Engineerer" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=50&lines=Computational+Finance+Undergrad;AI+Automation+Architect;Quant+Trader+%26+Financial+Modeler;Full-Stack+Machine+Learning+Engineer" alt="Typing Subtitle" />
 </p>
 
-<!-- Profile Visitor Counter & Core Status -->
+<!-- Profile Visitor Counter & Core Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadHammad-dotcom&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Building_FinTech_Systems-00ffcc?style=for-the-badge&logo=codefactor&logoColor=black" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Focus-Quant_%26_AI-FF6584?style=for-the-badge&logo=python&logoColor=white" alt="Focus Badge"/>
 </p>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Social Media & Network Terminals
 
 <p align="center">
   <a href="https://discord.com/users/muhammadhammad0288"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -39,39 +40,51 @@
 
 ---
 
-## 🎯 Executive Blueprint
+## 🎯 Executive Blueprint & Background
 > *"Engineering high-velocity financial systems, intelligent automated workflows, and resilient data-driven terminal apps."*
 
-* 🎓 **Academic Base:** Studying **Computational Finance** at **NED University of Engineering and Technology**.
-* 💡 **Core Focus:** Merging quantitative data science with automated AI engines to engineer real-world scalable solutions.
-* 🛠️ **Current Obsession:** Building algorithmic trading terminals, advanced POS operating systems, and automated enterprise workflows.
-* 📫 **Direct Contact Channels:** `mhammadmnaeem29@gmail.com` | `mhammadmnaeem28@gmail.com`
+* 🎓 **Academic Institution:** Pursuing **B.Sc. Computational Finance** at **NED University of Engineering & Technology**.
+* 🧠 **Specialization:** Merging quantitative model optimization, predictive machine learning, and workflow automation.
+* 🛠️ **Current Focus:** Algorithmic trading terminal architectures, custom POS operating software, and n8n AI engine integrations.
+* ⚡ **Core Methodologies:** Predictive Financial Risk Modeling, Statistical Arbitrage, Data Pipelines, and Full-Stack Scripts.
+* 📫 **Direct Communications:** `mhammadmnaeem29@gmail.com` | `mhammadmnaeem28@gmail.com`
 
 ---
 
 ## 💻 Tech Stack & Power Ecosystem
 
-### Languages & Core Engineering
+### Languages & Engineering Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,sql,c,cpp,cs,js,ts,html,css,powershell,bash,git,github,vscode,postman,docker,linux,excel" alt="Tech Stack Icons"/>
 </p>
 
-### Machine Learning, Quant & Frameworks
+### Frameworks, Libraries & Automation Engines
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Pandas_%7C_NumPy_%7C_Scikit--Learn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-Analytics_%26_Viz-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics_%26_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/n8n-AI_Workflow_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Interactive_Terminals-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Random_Forest_%7C_Predictive-00599C?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured High-Impact Projects
+## 🚀 Featured High-Impact Systems
 
-| Project Name | Architecture & Core Scope | Tech Stack | Direct Action |
+| System Name | Architecture Scope & Engineering | Core Stack | Repository Direct Link |
 | :--- | :--- | :--- | :--- |
-| **⚡ NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and analysis. | Python, ML, Streamlit, APIs | [Repository Link](https://github.com/MuhammadHammad-dotcom) |
-| **🛡️ Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, PowerBI | [Repository Link](https://github.com/MuhammadHammad-dotcom) |
+| **⚡ NEURAL-TRADE PRO** | Live quantitative trading terminal utilizing machine learning pipelines for real-time market tracking and signal analysis. | Python, Scikit-Learn, Streamlit, APIs | [Access Repository](https://github.com/MuhammadHammad-dotcom) |
+| **🛡️ Vanguard OS** | Advanced, high-velocity point-of-sale (POS) terminal integrated with dynamic real-time inventory and enterprise analytics. | Python, SQL, Power BI | [Access Repository](https://github.com/MuhammadHammad-dotcom) |
+| **📊 Intelligent Risk Assessment** | Credit risk assessment model using Random Forest classification to evaluate loan default probabilities. | Python, Pandas, Machine Learning | [Access Repository](https://github.com/MuhammadHammad-dotcom) |
+
+---
+
+## 📜 Professional Credentials & Specializations
+
+* 🎓 **Data Analysis with Python** — *IBM (Issued Jun 2026)*
+* 🏅 **Python (Basic) Certification** — *HackerRank (Issued Jun 2026)*
+* 💼 **Data Analytics Job Simulation** — *Deloitte Australia / Forage (Issued Jun 2026)*
+* 🤖 **AI & Generative AI Specialization** — *Governor Sindh IT Initiative (GIAIC)*
 
 ---
 
@@ -79,22 +92,26 @@
 
 <div align="center">
 
-  <!-- Side-by-side Table for Main Stats & Language Distribution -->
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3&icon_color=00FFCC" alt="GitHub Stats"/>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHammad-dotcom&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3&icon_color=00FFCC" alt="GitHub Core Stats" width="100%"/>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3" alt="Top Languages"/>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHammad-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=E6EDF3" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
 
-  <!-- GitHub Streak & Commit Activity Summary -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak"/>
-  </p>
+  <br/>
+
+  <table border="0" width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammad-dotcom&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" alt="GitHub Streak Tracker" width="98%"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -104,32 +121,49 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=00ffcc&point=ffffff&background=0d1117" alt="Contribution Activity Graph"/>
+  <p align="center">
+    <b>🔥 Real-Time Development Velocity & Daily Code Commits</b>
+  </p>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHammad-dotcom&theme=react-dark&hide_border=true&area=true&color=00ffcc&line=00ffcc&point=ffffff&background=0d1117" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Global Trophies Showcase
+## 🏆 Global Trophies & Milestones Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true&column=4&margin-h=15&margin-v=15" alt="GitHub Trophies"/>
+
+  <p align="center">
+    <b>🏅 Earned GitHub Badges & System Achievements</b>
+  </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammad-dotcom&theme=radical&no-frame=true&column=4&margin-h=15&margin-v=15" alt="GitHub Profile Trophies"/>
+
 </div>
 
 ---
 
-## ✍️ Random Dev Wisdom
+## ✍️ Random Dev Wisdom & Engineering Quotations
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Wisdom Quote"/>
+
+  <br/><br/>
+
+  > *"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."* — **C.A.R. Hoare**
+
 </div>
 
 ---
 
 <!-- Bottom Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=section&color=gradient&customColorList=6,11,20,30,40&height=50&section=footer" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=section&color=gradient&customColorList=6,11,20,30,40&height=60&section=footer" alt="Footer Banner"/>
 </p>
 
 <div align="center">
-  <sub>Designed with precision & high-velocity architecture by <b>Muhammad Hammad</b></sub>
+  <sub>Architected with precision, high-velocity data pipelines & quantitative engineering by <b>Muhammad Hammad</b></sub>
 </div>
